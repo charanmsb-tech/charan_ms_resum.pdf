@@ -1,6 +1,6 @@
 Resume
 
-📄 "Download My Resume" (Charan_MS_Resume.pdf)
+📄Download My Resume
 
 About Me
 
