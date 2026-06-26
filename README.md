@@ -1,3 +1,7 @@
-📄 [Download My Resume]("Charan MS Resume.pdf")
-# charan_ms_resum.pdf
-Final-year BCA student at Kuvempu University with interests in software engineering, blockchain, and data analysis. Skilled in Python, problem-solving, and troubleshooting, with experience in voice assistant projects and virtual environments. Quick learner, adaptable, detail-oriented, and preparing for CDS while exploring data analytics roles.
+Resume
+
+📄 "Download My Resume" (Charan_MS_Resume.pdf)
+
+About Me
+
+BCA student at Kuvempu University with a strong interest in software engineering, cybersecurity, data analytics, and emerging technologies. Skilled in Python, problem-solving, and troubleshooting, with hands-on experience in developing a voice assistant project. A quick learner, adaptable, and detail-oriented individual who is continuously building technical skills while preparing for future opportunities in technology and public service.
